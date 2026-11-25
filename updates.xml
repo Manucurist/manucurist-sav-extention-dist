@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='pnncpknmkhpmcgifdkdhakefiidijiel'>
+    <updatecheck codebase='https://manucurist.github.io/manucurist-sav-extention-dist/manucurist-sav-extention-1.2.1.crx' version='1.2.1' />
+  </app>
+</gupdate>
